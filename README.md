@@ -1,2 +1,3 @@
 This project presents a conversational SQL chatbot that uses natural language to query a relational LEGO database and visualize data through charts. Built using LangChain and OpenRouter LLM, the chatbot translates user queries into valid SQL, executes them securely, and returns tabular as well as visual outputs. The Streamlit-based interface supports conversational memory, interactive charting, and multi-session history, making the tool intuitive for real-time data exploration. 
-Sorce File : wget https://raw.githubusercontent.com/neondatabase/postgres-sample-dbs/main/lego.sql
+
+Source File : wget https://raw.githubusercontent.com/neondatabase/postgres-sample-dbs/main/lego.sql
