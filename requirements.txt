@@ -1,0 +1,6 @@
+streamlit
+openai
+psycopg2-binary
+langchain
+sqlalchemy
+requests
